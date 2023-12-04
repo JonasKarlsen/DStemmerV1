@@ -23,12 +23,24 @@ ul  {
     font-size: 18px;
 }
 
-.col a   {
+.nav a   {
     text-decoration: none;
     color: rgb(222, 197, 197);
     font-weight: 900;
 
     font-size: 150%;
+}
+
+.nav a:hover   {
+    text-decoration: none;
+    color: rgb(126, 112, 112);
+    font-weight: 900;
+
+    font-size: 150%;
+}
+
+.nav-link.active {
+    color: rgb(126, 112, 112);
 }
 
 .logo   {
@@ -88,4 +100,3 @@ nav {
     padding-top: 2%;
     background-color: #c3a37b;
 }
-
