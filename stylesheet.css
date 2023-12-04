@@ -99,4 +99,18 @@ nav {
 .mainsection    {
     padding-top: 2%;
     background-color: #c3a37b;
+    padding-bottom: 100px;
 }
+
+.padding    {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+@media only screen and (max-width: 1500px)   {
+    .margin {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
+
