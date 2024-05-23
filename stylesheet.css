@@ -113,6 +113,10 @@ nav {
     visibility: hidden;
 }
 
+.invisible  {
+    visibility: hidden;
+}
+
 .contact  {
     color: black;
     text-decoration: none;
