@@ -31,6 +31,14 @@ ul  {
     font-size: 150%;
 }
 
+.scrollbutton   {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+
+    font-size: 150%;
+}
+
 .nav a:hover   {
     text-decoration: none;
     color: rgb(126, 112, 112);
